@@ -1,0 +1,5 @@
+main: com.frostedmc.hub.Hub
+name: Hub
+version: 1.8.8
+author: redraskal
+load: POSTWORLD

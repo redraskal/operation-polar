@@ -1,0 +1,8 @@
+main: com.frostedmc.transactions.Main
+name: Transactions
+version: 1.8.8
+author: redraskal
+
+commands:
+  trans:
+    description: "Main Transaction Command"

@@ -1,0 +1,5 @@
+main: com.frostedmc.nightfallgen.NightfallGen
+name: NightfallGen
+author: redraskal
+version: ALPHA
+load: POSTWORLD

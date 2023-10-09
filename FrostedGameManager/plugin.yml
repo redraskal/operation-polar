@@ -1,0 +1,4 @@
+main: com.frostedmc.gamemanager.GameManager
+name: GameManager
+version: 1.8.8
+author: redraskal

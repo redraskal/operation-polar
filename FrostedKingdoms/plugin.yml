@@ -1,0 +1,5 @@
+main: com.frostedmc.kingdoms.Kingdoms
+name: Kingdoms
+version: 1.8.8
+author: redraskal
+depend: [ProtocolLib]

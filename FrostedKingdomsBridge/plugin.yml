@@ -1,0 +1,5 @@
+main: com.frostedmc.kingdoms.FrostedKingdoms
+name: FrostedKingdomsBridge
+version: 1.8.8
+author: redraskal
+softdepend: [MVdWPlaceholderAPI]

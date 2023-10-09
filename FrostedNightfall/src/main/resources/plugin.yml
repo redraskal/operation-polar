@@ -1,0 +1,5 @@
+main: com.frostedmc.nightfall.Nightfall
+name: Nightfall
+author: redraskal
+version: ALPHA
+load: POSTWORLD

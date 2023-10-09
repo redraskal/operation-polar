@@ -1,0 +1,5 @@
+main: com.frostedmc.arenapvp.ArenaPVP
+name: ArenaPVP
+version: 1.8.8
+author: redraskal
+load: POSTWORLD

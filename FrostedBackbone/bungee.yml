@@ -1,0 +1,5 @@
+main: com.frostedmc.backbone.Backbone
+name: Backbone
+version: 1.8.8
+author: redraskal
+depend: [RedisBungee]
